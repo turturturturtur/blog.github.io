@@ -5,8 +5,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="/blog.github.io/2024/06/03/hello-world/"/>
-    <url>/blog.github.io/2024/06/03/hello-world/</url>
+    <link href="/2024/06/03/hello-world/"/>
+    <url>/2024/06/03/hello-world/</url>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -14,9 +14,9 @@
     
     <tags>
       
-      <tag>C++</tag>
+      <tag>算法学习笔记</tag>
       
-      <tag>�㷨ѧϰ�ʼ�</tag>
+      <tag>C++</tag>
       
     </tags>
     
